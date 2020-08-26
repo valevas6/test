@@ -1,0 +1,7 @@
+uuid: 553a0847-9db0-4496-951e-8cace419e883
+langcode: en
+status: true
+dependencies: {  }
+formId: webform_submission_apply_job_form_add_form
+captchaType: image_captcha/Image
+label: webform_submission_apply_job_form_add_form

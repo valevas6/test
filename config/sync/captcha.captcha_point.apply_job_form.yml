@@ -1,0 +1,7 @@
+uuid: 47a467ef-6b16-419f-8af5-27e7ace03a51
+langcode: en
+status: true
+dependencies: {  }
+formId: apply_job_form
+captchaType: image_captcha/Image
+label: apply_job_form

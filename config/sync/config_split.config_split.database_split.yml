@@ -1,0 +1,16 @@
+uuid: 31cd22a5-480d-4344-abf0-16be92f641ef
+langcode: en
+status: true
+dependencies: {  }
+id: database_split
+label: Database_split
+description: ''
+folder: database_split
+module:
+  dblog: 0
+theme: {  }
+blacklist: {  }
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 0

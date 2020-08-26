@@ -1,7 +1,15 @@
 uuid: badab1dc-b108-46f0-92fe-ccda9ad39127
 langcode: en
 status: open
-dependencies: {  }
+dependencies:
+  module:
+    - antibot
+    - honeypot
+third_party_settings:
+  antibot:
+    antibot: true
+  honeypot:
+    honeypot: true
 open: null
 close: null
 weight: 0
@@ -143,6 +151,7 @@ settings:
 access:
   create:
     roles:
+      - anonymous
       - authenticated
     users: {  }
     permissions: {  }
